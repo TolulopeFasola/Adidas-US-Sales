@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This analysis focuses on adidas products sales in the United States across various retailers. For this project, i harnessed data modelling and visualization to create a well interactive power bi dashboard. This analysis will give insight and and decision-making in the adidas product sales. This project is an inspiration from Analytics extra. [Click here](https://app.powerbi.com/view?r=eyJrIjoiZTllZjZiYzctZDM4Ni00OTkxLWJiNWUtMzY5ZWI1ZDI3ZTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard .
+This analysis focuses on adidas products sales in the United States across various retailers. For this project, i harnessed data modelling and visualization to create a well interactive power bi dashboard. This analysis will give insight and and decision-making in the adidas product sales. This project is an inspiration from Analytics extra. [Click here](https://app.powerbi.com/view?r=eyJrIjoiZTllZjZiYzctZDM4Ni00OTkxLWJiNWUtMzY5ZWI1ZDI3ZTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
+
+![ad 1](https://github.com/TolulopeFasola/Tolulope-Portfolio/assets/170409494/58cdf658-aa80-4865-8cfa-3b3ddfe8206f)
 
 ## Data Source 
 
