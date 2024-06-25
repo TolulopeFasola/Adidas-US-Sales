@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-This analysis focuses on adidas products sales in the United States across various retailers. For this project, i harnessed data modelling and visualization to create a well interactive power bi dashboard. This analysis will give insight and and decision-making in the adidas product sales. This project is an inspiration from Analytics extra. [Click here](https://app.powerbi.com/view?r=eyJrIjoiZTllZjZiYzctZDM4Ni00OTkxLWJiNWUtMzY5ZWI1ZDI3ZTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
+This analysis focuses on adidas products sales in the United States across various retailers. For this project, I harnessed data modelling and visualization to create a well interactive power bi dashboard. This analysis will give insight and decision-making in the adidas product sales. This project is an inspiration from Analytics extra. [Click here](https://app.powerbi.com/view?r=eyJrIjoiZTllZjZiYzctZDM4Ni00OTkxLWJiNWUtMzY5ZWI1ZDI3ZTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) to view interactive dashboard.
 
 ![ad 1](https://github.com/TolulopeFasola/Tolulope-Portfolio/assets/170409494/58cdf658-aa80-4865-8cfa-3b3ddfe8206f)
 
 ## Data Source 
 
-The dataset used for this analysis “Adidas US Datasets.xlsx” is an excel file. The file contains information about sales, products, region, states, stores and other information on adidas products. Here is the link to the dataset used for the project.
+The dataset used for this analysis “Adidas US Datasets.xlsx” is an excel file. The file contains information about sales, products, region, states, stores and other information on adidas products.
 
 ## Skills & Tools
 
@@ -25,7 +25,7 @@ The dataset used for this analysis “Adidas US Datasets.xlsx” is an excel fil
 - Bar Chart : Created this chart to give insight on the revenue by sales method.
 - Clustered Bar Chart : Implemented the chart to give analysis on revenue and total profit of products.
 - Product Images : Created this simple interactive product images to show all the US adidas products.
-- Slicers : Theses slicers will help Navigate through the retailers, years, sales and month.
+- Slicers : These slicers will help Navigate through the retailers, years, sales and month.
 - Area Chart : Employed this chart to show sales trend by year and month across all products.
 - Stacked Column Chart : Implemented this chart to give insight on total sales made from each products.
 - Table : Employed this table to highlight state, revenue and revenue YOY.
